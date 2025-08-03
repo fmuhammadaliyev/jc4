@@ -1,0 +1,18 @@
+.h1 {
+  display: flex;
+  justify-content: center;
+  font-family: bold;
+  padding-top: 50px;
+  font-size: 50px;
+}
+.h2 {
+  display: flex;
+  justify-content: center;
+  padding-top: 50px;
+  font-family: bold;
+  font-size: 40px;
+}
+.video {
+  display: flex;
+  justify-content: center;
+}
